@@ -1,5 +1,4 @@
-# kubernetes-
-# kuberbetes-centos
+# kuberbetes-centos-
 
 ## centos7/8 部署 kubernetes 集群
 
